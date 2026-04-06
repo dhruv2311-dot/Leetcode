@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0796-rotate-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0796-rotate-string) |
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
 ## Math
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
