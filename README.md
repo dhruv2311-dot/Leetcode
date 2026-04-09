@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/dhruv2311-dot/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
