@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/dhruv2311-dot/Leetcode/tree/master/0125-valid-palindrome) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruv2311-dot/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/dhruv2311-dot/Leetcode/tree/master/0125-valid-palindrome) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0796-rotate-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0796-rotate-string) |
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
