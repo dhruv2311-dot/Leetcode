@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/dhruv2311-dot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruv2311-dot/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/dhruv2311-dot/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2404-most-frequent-even-element](https://github.com/dhruv2311-dot/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2404-most-frequent-even-element](https://github.com/dhruv2311-dot/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/dhruv2311-dot/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dhruv2311-dot/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0796-rotate-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0796-rotate-string) |
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/dhruv2311-dot/Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
