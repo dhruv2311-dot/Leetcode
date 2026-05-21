@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dhruv2311-dot/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/dhruv2311-dot/Leetcode/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1185-day-of-the-week](https://github.com/dhruv2311-dot/Leetcode/tree/master/1185-day-of-the-week) |
 ## Bit Manipulation
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dhruv2311-dot/Leetcode/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/dhruv2311-dot/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
