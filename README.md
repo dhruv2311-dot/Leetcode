@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dhruv2311-dot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dhruv2311-dot/Leetcode/tree/master/0283-move-zeroes) |
+| [0495-teemo-attacking](https://github.com/dhruv2311-dot/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dhruv2311-dot/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhruv2311-dot/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/dhruv2311-dot/Leetcode/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/dhruv2311-dot/Leetcode/tree/master/0495-teemo-attacking) |
 ## Breadth-First Search
 |  |
 | ------- |
