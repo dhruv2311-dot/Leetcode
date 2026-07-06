@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
 | [2815-max-pair-sum-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3790-smallest-all-ones-multiple](https://github.com/dhruv2311-dot/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 ## Counting
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/dhruv2311-dot/Leetcode/tree/master/2652-sum-multiples) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhruv2311-dot/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3790-smallest-all-ones-multiple](https://github.com/dhruv2311-dot/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
