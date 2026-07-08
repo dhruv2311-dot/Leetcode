@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruv2311-dot/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhruv2311-dot/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dhruv2311-dot/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhruv2311-dot/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sliding Window
+|  |
+| ------- |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dhruv2311-dot/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
