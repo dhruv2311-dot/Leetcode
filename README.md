@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/dhruv2311-dot/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dhruv2311-dot/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruv2311-dot/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dhruv2311-dot/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruv2311-dot/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/dhruv2311-dot/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhruv2311-dot/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/dhruv2311-dot/Leetcode/tree/master/2404-most-frequent-even-element) |
