@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/dhruv2311-dot/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/dhruv2311-dot/Leetcode/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0881-boats-to-save-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dhruv2311-dot/Leetcode/tree/master/0412-fizz-buzz) |
+| [0556-next-greater-element-iii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruv2311-dot/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhruv2311-dot/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/dhruv2311-dot/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dhruv2311-dot/Leetcode/tree/master/0412-fizz-buzz) |
+| [0556-next-greater-element-iii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1137-n-th-tribonacci-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/dhruv2311-dot/Leetcode/tree/master/1185-day-of-the-week) |
 | [1323-maximum-69-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/1323-maximum-69-number) |
