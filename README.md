@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dhruv2311-dot/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/dhruv2311-dot/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dhruv2311-dot/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dhruv2311-dot/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dhruv2311-dot/Leetcode/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/dhruv2311-dot/Leetcode/tree/master/1185-day-of-the-week) |
 | [1323-maximum-69-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/1323-maximum-69-number) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/dhruv2311-dot/Leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/1323-maximum-69-number) |
 ## Memoization
 |  |
@@ -257,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dhruv2311-dot/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
