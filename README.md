@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dhruv2311-dot/Leetcode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/dhruv2311-dot/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/dhruv2311-dot/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dhruv2311-dot/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dhruv2311-dot/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/dhruv2311-dot/Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/dhruv2311-dot/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dhruv2311-dot/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/dhruv2311-dot/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
