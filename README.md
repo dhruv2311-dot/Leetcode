@@ -198,18 +198,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0112-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0112-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
