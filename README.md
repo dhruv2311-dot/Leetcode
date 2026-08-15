@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/dhruv2311-dot/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2652-sum-multiples](https://github.com/dhruv2311-dot/Leetcode/tree/master/2652-sum-multiples) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhruv2311-dot/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3790-smallest-all-ones-multiple](https://github.com/dhruv2311-dot/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 ## Bit Manipulation
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/dhruv2311-dot/Leetcode/tree/master/0506-relative-ranks) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
