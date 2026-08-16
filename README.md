@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3453-separate-squares-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruv2311-dot/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3701-compute-alternating-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/dhruv2311-dot/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dhruv2311-dot/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/dhruv2311-dot/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/dhruv2311-dot/Leetcode/tree/master/0495-teemo-attacking) |
+| [3701-compute-alternating-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/dhruv2311-dot/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Breadth-First Search
 |  |
