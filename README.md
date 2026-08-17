@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruv2311-dot/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2367-number-of-arithmetic-triplets](https://github.com/dhruv2311-dot/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/dhruv2311-dot/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
 | [2815-max-pair-sum-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2367-number-of-arithmetic-triplets](https://github.com/dhruv2311-dot/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruv2311-dot/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhruv2311-dot/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2367-number-of-arithmetic-triplets](https://github.com/dhruv2311-dot/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/dhruv2311-dot/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
 | [2815-max-pair-sum-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
@@ -287,5 +290,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/dhruv2311-dot/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
