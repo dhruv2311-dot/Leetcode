@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dhruv2311-dot/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruv2311-dot/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1816-truncate-sentence](https://github.com/dhruv2311-dot/Leetcode/tree/master/1816-truncate-sentence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dhruv2311-dot/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/dhruv2311-dot/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruv2311-dot/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1816-truncate-sentence](https://github.com/dhruv2311-dot/Leetcode/tree/master/1816-truncate-sentence) |
 | [1927-sum-game](https://github.com/dhruv2311-dot/Leetcode/tree/master/1927-sum-game) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhruv2311-dot/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dhruv2311-dot/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
