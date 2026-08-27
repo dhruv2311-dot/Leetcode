@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2815-max-pair-sum-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/dhruv2311-dot/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dhruv2311-dot/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3453-separate-squares-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/dhruv2311-dot/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/dhruv2311-dot/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dhruv2311-dot/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruv2311-dot/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
