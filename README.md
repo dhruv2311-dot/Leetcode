@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dhruv2311-dot/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/dhruv2311-dot/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv2311-dot/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/dhruv2311-dot/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
