@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/dhruv2311-dot/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruv2311-dot/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/dhruv2311-dot/Leetcode/tree/master/1816-truncate-sentence) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dhruv2311-dot/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/dhruv2311-dot/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/dhruv2311-dot/Leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Memoization
 |  |
 | ------- |
