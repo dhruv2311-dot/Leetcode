@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3453-separate-squares-i) |
 | [3467-transform-array-by-parity](https://github.com/dhruv2311-dot/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhruv2311-dot/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruv2311-dot/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3731-find-missing-elements) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/dhruv2311-dot/Leetcode/tree/master/2652-sum-multiples) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhruv2311-dot/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhruv2311-dot/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhruv2311-dot/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3790-smallest-all-ones-multiple](https://github.com/dhruv2311-dot/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
