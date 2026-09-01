@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv2311-dot/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv2311-dot/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv2311-dot/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dhruv2311-dot/Leetcode/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
