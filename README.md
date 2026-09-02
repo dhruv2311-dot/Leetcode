@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/dhruv2311-dot/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/dhruv2311-dot/Leetcode/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dhruv2311-dot/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/dhruv2311-dot/Leetcode/tree/master/0877-stone-game) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0525-contiguous-array) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dhruv2311-dot/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0525-contiguous-array) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruv2311-dot/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/dhruv2311-dot/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/1331-rank-transform-of-an-array) |
