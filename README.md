@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv2311-dot/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/dhruv2311-dot/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv2311-dot/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/dhruv2311-dot/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv2311-dot/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/dhruv2311-dot/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Simulation
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv2311-dot/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/dhruv2311-dot/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Dynamic Programming
 |  |
