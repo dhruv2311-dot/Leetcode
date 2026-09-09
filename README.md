@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dhruv2311-dot/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dhruv2311-dot/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dhruv2311-dot/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Simulation
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dhruv2311-dot/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0662-maximum-width-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
