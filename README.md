@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/dhruv2311-dot/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dhruv2311-dot/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1367-linked-list-in-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Minimax
