@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dhruv2311-dot/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/dhruv2311-dot/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0113-path-sum-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0113-path-sum-ii) |
@@ -443,4 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/dhruv2311-dot/Leetcode/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
