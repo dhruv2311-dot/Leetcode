@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/dhruv2311-dot/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhruv2311-dot/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruv2311-dot/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3668-restore-finishing-order](https://github.com/dhruv2311-dot/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/dhruv2311-dot/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/dhruv2311-dot/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3731-find-missing-elements) |
 | [3790-smallest-all-ones-multiple](https://github.com/dhruv2311-dot/Leetcode/tree/master/3790-smallest-all-ones-multiple) |
 ## Counting
