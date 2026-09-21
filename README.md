@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/dhruv2311-dot/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0525-contiguous-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dhruv2311-dot/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3903-smallest-stable-index-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
