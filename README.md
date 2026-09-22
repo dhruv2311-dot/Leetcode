@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/dhruv2311-dot/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/dhruv2311-dot/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dhruv2311-dot/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -463,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv2311-dot/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
