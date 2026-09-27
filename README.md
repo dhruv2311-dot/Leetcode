@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv2311-dot/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dhruv2311-dot/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dhruv2311-dot/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/dhruv2311-dot/Leetcode/tree/master/0455-assign-cookies) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dhruv2311-dot/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dhruv2311-dot/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/dhruv2311-dot/Leetcode/tree/master/0455-assign-cookies) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/dhruv2311-dot/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dhruv2311-dot/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dhruv2311-dot/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhruv2311-dot/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/dhruv2311-dot/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -488,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/dhruv2311-dot/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
