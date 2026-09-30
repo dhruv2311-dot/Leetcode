@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/dhruv2311-dot/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruv2311-dot/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dhruv2311-dot/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/dhruv2311-dot/Leetcode/tree/master/2652-sum-multiples) |
 | [2748-number-of-beautiful-pairs](https://github.com/dhruv2311-dot/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruv2311-dot/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhruv2311-dot/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
