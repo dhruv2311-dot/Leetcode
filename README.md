@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/dhruv2311-dot/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/dhruv2311-dot/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2815-max-pair-sum-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dhruv2311-dot/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/dhruv2311-dot/Leetcode/tree/master/0495-teemo-attacking) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dhruv2311-dot/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [2553-separate-the-digits-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/dhruv2311-dot/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/4020-elevator-requests-i) |
