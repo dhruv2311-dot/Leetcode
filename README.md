@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/dhruv2311-dot/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/dhruv2311-dot/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3894-traffic-signal-color](https://github.com/dhruv2311-dot/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3894-traffic-signal-color](https://github.com/dhruv2311-dot/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/dhruv2311-dot/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/dhruv2311-dot/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/dhruv2311-dot/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Breadth-First Search
