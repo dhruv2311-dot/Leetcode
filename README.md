@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dhruv2311-dot/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dhruv2311-dot/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3453-separate-squares-i) |
 | [3467-transform-array-by-parity](https://github.com/dhruv2311-dot/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhruv2311-dot/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dhruv2311-dot/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dhruv2311-dot/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dhruv2311-dot/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhruv2311-dot/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruv2311-dot/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dhruv2311-dot/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhruv2311-dot/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhruv2311-dot/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhruv2311-dot/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
