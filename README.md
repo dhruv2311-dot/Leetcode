@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/dhruv2311-dot/Leetcode/tree/master/1816-truncate-sentence) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dhruv2311-dot/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dhruv2311-dot/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/dhruv2311-dot/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dhruv2311-dot/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dhruv2311-dot/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruv2311-dot/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv2311-dot/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/dhruv2311-dot/Leetcode/tree/master/1816-truncate-sentence) |
 | [1927-sum-game](https://github.com/dhruv2311-dot/Leetcode/tree/master/1927-sum-game) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dhruv2311-dot/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dhruv2311-dot/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/2418-sort-the-people) |
