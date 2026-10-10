@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dhruv2311-dot/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/dhruv2311-dot/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/dhruv2311-dot/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/dhruv2311-dot/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dhruv2311-dot/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dhruv2311-dot/Leetcode/tree/master/0326-power-of-three) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhruv2311-dot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv2311-dot/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruv2311-dot/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/dhruv2311-dot/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/dhruv2311-dot/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/dhruv2311-dot/Leetcode/tree/master/0739-daily-temperatures) |
