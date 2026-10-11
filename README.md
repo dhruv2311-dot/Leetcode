@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/dhruv2311-dot/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dhruv2311-dot/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2815-max-pair-sum-in-an-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/dhruv2311-dot/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dhruv2311-dot/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhruv2311-dot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
