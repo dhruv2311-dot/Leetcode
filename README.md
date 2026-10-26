@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dhruv2311-dot/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/dhruv2311-dot/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/dhruv2311-dot/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0896-monotonic-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhruv2311-dot/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dhruv2311-dot/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruv2311-dot/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
