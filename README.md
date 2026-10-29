@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/dhruv2311-dot/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0596-classes-with-at-least-5-students](https://github.com/dhruv2311-dot/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 ## Queue
 |  |
 | ------- |
